@@ -1,4 +1,5 @@
-# Glassmorphism vs Neumorphism Clock | Css, JS & Vanilla Tilt
+# Glassmorphism vs Neumorphism Clock | Css, JS
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/quentin-feret/pen/LYRyypN](https://codepen.io/quentin-feret/pen/LYRyypN).
+![image](https://github.com/user-attachments/assets/f1cd9a82-439f-4e05-8be5-db4c7246c1b3)
+
 
